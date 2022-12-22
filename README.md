@@ -1,2 +1,2 @@
 # notifications-service
-Projeto desenvolvido no IgniteLab da Rocketseat utilizando conceito de microsserviços
+Projeto com microsserviços desenvolvido no IgniteLab da Rocketseat
